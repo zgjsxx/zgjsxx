@@ -54,7 +54,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.sv"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 </p>
 
@@ -76,6 +76,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 #Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
+--> 
 
 <p align="center">
   <a href="https://www.patreon.com/onimur" target="_blank">
@@ -89,7 +90,7 @@ I created these images, feel free to use them.
   </a>
 </p>
 --> 
----
+
 <!--
 <!-- Its main projects -->
 <p align="center">
