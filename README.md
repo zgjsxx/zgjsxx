@@ -24,9 +24,10 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning C++ and Go;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
+<!--
 #- ⚡️ Fun-Fact: I have a degree in civil engineering;
 #- 📫 How to reach me: murillo_comino@hotmail.com;
-
+--> 
 **Languages and Tools:** 
 
 <!-- Your github readme stats
