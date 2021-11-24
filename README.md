@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently interesting in Network Defense.
 - 🌱 I’m currently learning C++ and Go;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🤔 I’m looking for help with Mathematics 😭;
 - 💬 Ask me about anything, I am happy to help;
 <!--
 #- ⚡️ Fun-Fact: I have a degree in civil engineering;
