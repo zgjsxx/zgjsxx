@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![my github data](https://github-readme-stats.vercel.app/api?username=zgjsxx)
 ![my github data](https://github-readme-stats.vercel.app/api?username=zgjsxx&show_icons=true&theme=radical)
 
