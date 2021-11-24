@@ -12,8 +12,6 @@ You can use the website to generate badges: https://shields.io/
 #[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 #[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 --> 
-&nbsp;
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
