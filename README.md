@@ -9,7 +9,8 @@ zgjsxx/zgjsxx is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+## My github data
+![my github data](https://github-readme-stats.vercel.app/api?username=zgjsxx&show_icons=true&theme=radical)
 
-![my github data](https://github-readme-stats.vercel.app/api?username=zgjsxx&show_icons=true&theme=Gradient)
-
+## My github top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgjsxx)
