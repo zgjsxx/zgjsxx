@@ -69,13 +69,15 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="https://github.com/zgjsxx/XPlayer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zgjsxx&repo=XPlayer" />
   </a>  
+</p>
+<p align="center">
   <a href="https://github.com/zgjsxx/simple_http_proxy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zgjsxx&repo=simple_http_proxy" />
   </a>  
   <a href="https://github.com/zgjsxx/AWS-SAA">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zgjsxx&repo=AWS-SAA" />
   </a>
-  
-</p>
+</p>  
+
 <!-- This readme was created by zgjsxx - https://github.com/zgjsxx -->
 ⭐️ From [zgjsxx](https://github.com/zgjsxx)
